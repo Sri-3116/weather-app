@@ -20,7 +20,7 @@ Unlike a traditional weather application that simply displays temperature and we
 Your project is organized using the standard Create React App layout template:
 
 
-weather-app-clone/
+weather-app
 ├── public/
 │   ├── index.html        # Main HTML layout wrapper
 │   ├── manifest.json     # App tracking definitions
